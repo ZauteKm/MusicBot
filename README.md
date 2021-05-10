@@ -1,5 +1,6 @@
 <h1 align="centre">🎶 Music Bot v-2 🎶</h1>
-[CLICK HERE](http://githup.com/ZauteKm/GroupMusicBot-v2)
+
+Group Music Bot v2 [CLICK HERE](https://githup.com/ZauteKm/GroupMusicBot-v2)
 
 ## Requirements 📝
 
