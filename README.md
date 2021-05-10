@@ -13,7 +13,7 @@ Group Music Bot v2 [CLICK HERE](https://githup.com/ZauteKm/GroupMusicBot-v2)
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/MusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/GroupMusicBot-v2)
 
 Get STRING_NAME from here:
 
