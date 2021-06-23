@@ -1,6 +1,6 @@
 <h1 align="centre">🎶 Music Bot v-2</h1>
 
-Group Music Bot v2 [CLICK HERE](https://githup.com/ZauteKm/GroupMusicBot-v2)
+Group Music Bot v2 [CLICK HERE](https://githup.com/ZauteKm/VCsMusicBot)
 
 ## Requirements 📝
 
@@ -13,7 +13,7 @@ Group Music Bot v2 [CLICK HERE](https://githup.com/ZauteKm/GroupMusicBot-v2)
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/GroupMusicBot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/VCsMusicBot)
 
 Get STRING_NAME from here:
 
